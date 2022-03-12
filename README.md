@@ -7,9 +7,9 @@
 📫  You can reach us on these channels:
 - [Lab Website](https://www.cembrowskilab.com/
 - Twitter: [@MarkCembrowski](https://twitter.com/MarkCembrowski), 
--   PostDocs: [@laKrausl](https://twitter.com/laKrausl, 
--   PhDs: [@NeuroSully](https://twitter.com/NeuroSully), [@AdrienneKinman](https://twitter.com/AdrienneKinman), [@dmerryweather21](https://twitter.com/dmerryweather21),
--   Master's: [@BriannaBristow](https://twitter.com/BriannaBristow), [@sarahrae_erwin](https://twitter.com/sarahrae_erwin)  
+     PostDocs: [@laKrausl](https://twitter.com/laKrausl),   
+     PhDs: [@NeuroSully](https://twitter.com/NeuroSully), [@AdrienneKinman](https://twitter.com/AdrienneKinman), [@dmerryweather21](https://twitter.com/dmerryweather21),  
+     Master's: [@BriannaBristow](https://twitter.com/BriannaBristow), [@sarahrae_erwin](https://twitter.com/sarahrae_erwin)    
 
 <!---
 cembrowskilab/cembrowskilab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
