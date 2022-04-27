@@ -7,10 +7,10 @@
 📫  You can reach us on these channels:
 - [Lab Website](https://www.cembrowskilab.com/
 - Twitter: [@MarkCembrowski](https://twitter.com/MarkCembrowski),  
-        PostDocs: [@laKrausl](https://twitter.com/laKrausl),   
-        PhDs: [@NeuroSully](https://twitter.com/NeuroSully), [@AdrienneKinman](https://twitter.com/AdrienneKinman), [@dmerryweather21](https://twitter.com/dmerryweather21),  
-        Master's: [@BriannaBristow](https://twitter.com/BriannaBristow), [@sarahrae_erwin](https://twitter.com/sarahrae_erwin)    
-
+        PostDocs: Larissa Kraus [@laKrausl](https://twitter.com/laKrausl),   
+        PhDs: Kaitlin Sullivan [@NeuroSully](https://twitter.com/NeuroSully), Adrienne Kinman [@AdrienneKinman](https://twitter.com/AdrienneKinman), Derek Merryweather [@dmerryweather21](https://twitter.com/dmerryweather21), Shalini Iyer [@_ShaliniIyer](https://twitter.com/_ShaliniIyer)  
+        Master's: Brianna Bristow [@BriannaBristow](https://twitter.com/BriannaBristow), Sarah Erwin [@sarahrae_erwin](https://twitter.com/sarahrae_erwin), Regan Campbell [@R_eCampbell](https://twitter.com/R_eCampbell)    
+- Individual GitHubs: Kaitlin Sullivan [@kaitsull]
 <!---
 cembrowskilab/cembrowskilab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
