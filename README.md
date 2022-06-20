@@ -5,7 +5,7 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQFa9YejbQKsvw/profile-displaybackgroundimage-shrink_350_1400/0/1598040090700?e=1652313600&v=beta&t=3tNPgDfHaYZRqnuYNy77_-G7BMpbgTcPafXe3nhfBGQ)
   
 📫  You can reach us on these channels:
-- [Lab Website](https://www.cembrowskilab.com/
+- [Lab Website](https://www.cembrowskilab.com/)
 - Twitter: [@MarkCembrowski](https://twitter.com/MarkCembrowski),  
         PostDocs: Larissa Kraus [@laKrausl](https://twitter.com/laKrausl),   
         PhDs: Kaitlin Sullivan [@NeuroSully](https://twitter.com/NeuroSully), Adrienne Kinman [@AdrienneKinman](https://twitter.com/AdrienneKinman), Derek Merryweather [@dmerryweather21](https://twitter.com/dmerryweather21), Shalini Iyer [@_ShaliniIyer](https://twitter.com/_ShaliniIyer)  
