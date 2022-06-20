@@ -1,10 +1,21 @@
 
 # 👋 Hi, we are the [@cembrowskilab](https://www.cembrowskilab.com/)
 
-## We are interested in understanding memory across a range of spatial scales: from molecules and cells to circuits and behaviour.  
-![](https://media-exp1.licdn.com/dms/image/C5616AQFa9YejbQKsvw/profile-displaybackgroundimage-shrink_350_1400/0/1598040090700?e=1652313600&v=beta&t=3tNPgDfHaYZRqnuYNy77_-G7BMpbgTcPafXe3nhfBGQ)
+## *We are interested in understanding memory across a range of spatial scales: from molecules and cells to circuits and behaviour.*  
+![](https://images.squarespace-cdn.com/content/v1/5ae4b962da02bc2c12392eb6/1525019485972-S5PWYME9XE8Q2JZCRQQF/lypd1CaRegions_retry_5_b_full.jpg?format=2500w)
   
-## 📫  You can reach us on these channels:
+## 📌 Quick Links  
+##### 📝 TUTORIALS  
+- scRNA-seq Tutorials  
+- R-based Utilities for HiPlex (RUHi) Tutorials  
+- mFISH Fiji Menu Tutorials  
+  
+##### 📂 REPOS  
+- RUHi  
+- mFISH Fiji Menu (private)    
+- Protein Search  
+  
+## 📫  You can reach us on these channels...  
 ### 💻 [Lab Website](https://www.cembrowskilab.com/)
 ### 🐣 Twitter
 - [@MarkCembrowski](https://twitter.com/MarkCembrowski)  
