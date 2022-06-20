@@ -5,12 +5,12 @@
 ![](https://images.squarespace-cdn.com/content/v1/5ae4b962da02bc2c12392eb6/1525019485972-S5PWYME9XE8Q2JZCRQQF/lypd1CaRegions_retry_5_b_full.jpg?format=2500w)
   
 ## 📌 Quick Links  
-##### 📝 TUTORIALS  
+##### 📝 **TUTORIALS**   
 - scRNA-seq Tutorials  
 - R-based Utilities for HiPlex (RUHi) Tutorials  
 - mFISH Fiji Menu Tutorials  
   
-##### 📂 REPOS  
+##### 📂 **REPOS**  
 - RUHi  
 - mFISH Fiji Menu (private)    
 - Protein Search  
