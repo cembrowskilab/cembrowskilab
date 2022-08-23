@@ -7,8 +7,8 @@
 ## 📌 Quick Links  
 ##### 📝 **TUTORIALS**   
 - scRNA-seq Tutorials  
-- R-based Utilities for HiPlex (RUHi) Tutorials  
-- mFISH Fiji Menu Tutorials  
+- [R-based Utilities for HiPlex (RUHi) Tutorials](https://github.com/cembrowskilab/RUHi/blob/master/README.md)  
+- mFISH Fiji Menu Tutorials (private)  
   
 ##### 📂 **REPOS**  
 - [RUHi](https://www.github.com/cembrowskilab/RUHi)  
