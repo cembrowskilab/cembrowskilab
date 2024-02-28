@@ -13,7 +13,8 @@
 ##### 📂 **REPOS**  
 - [RUHi](https://www.github.com/cembrowskilab/RUHi)  
 - mFISH Fiji Menu (private)    
-- [Protein Search](https://www.github.com/cembrowskilab/proteinsearch.py)  
+- [Protein Search](https://www.github.com/cembrowskilab/proteinsearch.py)
+- [Xenium Spatial Analyis](https://github.com/cembrowskilab/XeniumSpatialAnalysis)
   
 ## 📫  You can reach us on these channels...  
 ### 💻 [Lab Website](https://www.cembrowskilab.com/)
